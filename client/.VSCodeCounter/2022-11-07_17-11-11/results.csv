@@ -1,0 +1,13 @@
+"filename", "language", "JSON with Comments", "Markdown", "TypeScript", "JSON", "JavaScript React", "TypeScript React", "Less", "JavaScript", "comment", "blank", "total"
+"d:\Work\WebSigncryption\client\.umirc.ts", "TypeScript", 0, 0, 23, 0, 0, 0, 0, 0, 2, 2, 27
+"d:\Work\WebSigncryption\client\README.md", "Markdown", 0, 10, 0, 0, 0, 0, 0, 0, 0, 6, 16
+"d:\Work\WebSigncryption\client\package.json", "JSON", 0, 0, 0, 7, 0, 0, 0, 0, 32, 0, 39
+"d:\Work\WebSigncryption\client\src\api\key.js", "JavaScript", 0, 0, 0, 0, 0, 0, 0, 6, 0, 0, 6
+"d:\Work\WebSigncryption\client\src\pages\deSigCrypt.jsx", "JavaScript React", 0, 0, 0, 0, 163, 0, 0, 0, 17, 19, 199
+"d:\Work\WebSigncryption\client\src\pages\enSigCrypt.jsx", "JavaScript React", 0, 0, 0, 0, 153, 0, 0, 0, 18, 16, 187
+"d:\Work\WebSigncryption\client\src\pages\getPairKey.jsx", "JavaScript React", 0, 0, 0, 0, 54, 0, 0, 0, 15, 13, 82
+"d:\Work\WebSigncryption\client\src\pages\index.less", "Less", 0, 0, 0, 0, 0, 0, 3, 0, 0, 1, 4
+"d:\Work\WebSigncryption\client\src\pages\index.tsx", "TypeScript React", 0, 0, 0, 0, 0, 8, 0, 0, 0, 2, 10
+"d:\Work\WebSigncryption\client\tsconfig.json", "JSON with Comments", 32, 0, 0, 0, 0, 0, 0, 0, 5, 1, 38
+"d:\Work\WebSigncryption\client\typings.d.ts", "TypeScript", 0, 0, 10, 0, 0, 0, 0, 0, 0, 1, 11
+"Total", "-", 32, 10, 33, 7, 370, 8, 3, 6, 89, 61, 619
